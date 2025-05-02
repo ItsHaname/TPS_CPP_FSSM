@@ -1,0 +1,136 @@
+{
+    "editor.fontSize": 20,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.fontFamily": "Anonymous Pro",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 0,
+    "editor.detectIndentation": true,
+    "editor.linkedEditing": true,
+    "editor.minimap.enabled": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.suggestSelection": "first",
+    "editor.tokenColorCustomizations": {
+      "textMateRules": [
+        {
+          "scope": [
+            "keyword.operator",
+            "punctuation.separator"
+          ],
+          "settings": {
+            "fontStyle": ""
+          }
+        },
+        {
+          "scope": [
+            "comment",
+            "comment.block"
+          ],
+          "settings": {
+            "fontStyle": "italic",
+            "foreground": "#F5F"
+          }
+        },
+        {
+          "name": "envKeys",
+          "scope": "string.quoted.double.env,source.env,constant.numeric.env",
+          "settings": {
+            "foreground": "#19354900"
+          }
+        }
+      ]
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.inlineSuggest.enabled": true,
+    "editor.hover.enabled": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true,
+    "editor.formatOnPaste": false,
+    "editor.tokenColorCustomizations": {
+      "comments": "#95afc0"
+    },
+    "window.zoomLevel": 1,
+    "workbench.colorCustomizations": {
+      "editorGroupHeader.tabsBackground": "#2c2c54",
+      "activityBar.background": "#2c2c54",
+      "sideBar.background": "#141422",
+      "minimap.background": "#141422",
+      "tab.activeBackground": "#706fd3",
+      "tab.inactiveBackground": "#191846",
+      "terminal.border": "#2c2c54",
+      "terminal.background": "#2c2c54",
+      "statusBar.background": "#474787",
+      "scrollbarSlider.background": "#474787",
+      "scrollbarSlider.hoverBackground": "#706fd3"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Andromeda",
+    "workbench.editor.enablePreview": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.fontSize": 14,
+    "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveSassCompile.settings.formats": [
+      {
+        "format": "compressed",
+        "extensionName": ".min.css",
+        "savePath": "/css"
+      }
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "files.autoSave": "onWindowChange",
+    "files.autoSaveDelay": 10,
+    "files.autoSave": "afterDelay",
+    "prettier.proseWrap": "always",
+    "prettier.singleQuote": true,
+    "prettier.arrowParens": "avoid",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "screencastMode.onlyKeyboardShortcuts": true,
+    "screencastMode.mouseIndicatorColor": "#f1c40f",
+    "screencastMode.verticalOffset": 0,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "cSpell.enabled": true,
+    "cSpell.enableFiletypes": [
+      "mdx"
+    ],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "explorer.openEditors.visible": 1,
+    "extensions.ignoreRecommendations": true,
+    "git.autofetch": true,
+    "git.openRepositoryInParentFolders": "never",
+    "markdown.preview.fontSize": 36,
+    "screencastMode.keyboardOptions": {
+      "showCommandGroups": false,
+      "showCommands": false,
+      "showKeybindings": true,
+      "showKeys": false,
+      "showSingleEditorCursorMoves": true
+    },
+    "search.exclude": {
+      "**/*.code-search": true,
+      "**/bower_components": true,
+      "**/node_modules": true
+    },
+    "search.useIgnoreFiles": false,
+    "svelte.enable-ts-plugin": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.editor.labelFormat": "medium",
+    "workbench.editor.showTabs": "none",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.statusBar.visible": false,
+    "window.customTitleBarVisibility": "auto"
+  }

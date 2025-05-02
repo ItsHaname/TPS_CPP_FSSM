@@ -14,6 +14,4 @@ Ce programme permet de gérer une liste d'entiers avec un menu interactif. Vous 
 4. **Taper 4** pour afficher le dernier entier saisi dans la liste  
 5. **Taper 5** pour Quitter  
 ========================================================
-
-
-
+dmdmkmvmvk

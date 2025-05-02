@@ -70,6 +70,7 @@ int main() {
                 std::cout << "Erreur ! Choix invalide." << std::endl;
         }
     }
-
-    return 0;
+return 0;
 }
+
+    
