@@ -46,7 +46,3 @@ g++ Exercice1.cpp -o Exercice1
   <li>📌 <strong>GitHub:</strong> <a href="https://github.com/ItsHaname" target="_blank">@ItsHaname</a></li>
 </ul>
 
-<p align="center" style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #4CAF50;">Happy coding! 🚀😃</p>
-
-
-<img src=c.gif>
